@@ -1,0 +1,6 @@
+
+¿Que hace esta ruta?
+R/ Esta ruta recibe información enviada por el usuario y responde con un mensaje en formato JSON.
+
+¿Para que podria servir en una aplicación comunitaria?
+R/ Podria servir para enviar reportes alertas o mensajes importantes dentro de una comunidad

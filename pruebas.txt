@@ -1,0 +1,8 @@
+http://localhost:3000
+Muestra el mensaje "servidor activo"
+
+http://localhost:3000/saludo
+Muestra el mensaje "Hola comunidad"
+
+http://localhost:3000/mensaje/juan
+Muestra un saludo personalizado con el nombre escrito en la ruta
